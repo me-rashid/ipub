@@ -1,1 +1,2 @@
 https://github.com/me-rashid/ipub/releases/
+https://github.com/me-rashid/ipub/releases/tag/v1.1
